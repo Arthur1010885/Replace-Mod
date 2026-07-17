@@ -22,6 +22,26 @@
   <img alt="Fabric" src="https://img.shields.io/badge/Loader-Fabric-dbd0b4?style=for-the-badge"/>
   <img alt="License" src="https://img.shields.io/badge/License-CC0%201.0-4f8cff?style=for-the-badge"/>
 </p>
+<h1 align="center">AutoReplace</h1>
+
+<p align="center">
+  <b>Select · Break · Fill</b> — server-side mass editing for Minecraft (Fabric)
+</p>
+
+<p align="center">
+  <a href="#features">Features</a> ·
+  <a href="#installation">Install</a> ·
+  <a href="#how-to-use">Usage</a> ·
+  <a href="#supported-versions">Versions</a> ·
+  <a href="#building-from-source">Build</a> ·
+  <a href="#faq">FAQ</a>
+</p>
+
+<p align="center">
+  <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-1.21.1%20to%2026.2-62b47a?style=for-the-badge"/>
+  <img alt="Fabric" src="https://img.shields.io/badge/Loader-Fabric-dbd0b4?style=for-the-badge"/>
+  <img alt="License" src="https://img.shields.io/badge/License-CC0%201.0-4f8cff?style=for-the-badge"/>
+</p>
 
 ---
 
