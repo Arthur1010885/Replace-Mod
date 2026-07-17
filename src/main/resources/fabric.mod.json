@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "autoreplace",
+	"version": "${version}",
+	"name": "AutoReplace",
+	"description": "Selecione uma area (estilo Litematica) e quebre todos os blocos iguais ao quebrar um deles. Menu na tecla Z.",
+	"authors": [
+		"AutoReplace"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/autoreplace/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.autoreplace.AutoReplace"
+		],
+		"client": [
+			"com.autoreplace.client.AutoReplaceClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
