@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=<p al<p align="center">
-  <img src="https://media.forgecdn.net/attachments/description/1612667/description_7c5fbde4-fc84-41e5-a794-4ab0ba0ac75a.png" alt="AutoReplace animated banner" width="800"/>
+  <img src="https://media.forgecdn.net/attachments/description/1612667/description_7c5fbde4-fc84-41e5-a794-4ab0ba0ac75a.png" alt="AutoReplace banner" width="800"/>
 </p>
 
 <h1 align="center">AutoReplace</h1>
