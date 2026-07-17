@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/banner-animated.gif" alt="AutoReplace animated banner" width="800"/>
+  <img src="assets/banner-animated.gif" alt="AutoReplace animated banner" width="800"/>
 </p>
 
 <h1 align="center">AutoReplace</h1>
