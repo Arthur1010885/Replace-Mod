@@ -2,12 +2,6 @@
   <img src="assets/banner-animated.gif" alt="AutoReplace animated banner" width="800"/>
 </p>
 
-<h1 align="center">AutoReplace</h1>
-
-<p align="center">
-  <b>Select · Break · Fill</b> — server-side mass editing for Minecraft (Fabric)
-</p>
-
 <p align="center">
   <a href="#features">Features</a> ·
   <a href="#installation">Install</a> ·
