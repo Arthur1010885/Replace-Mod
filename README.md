@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Arthur1010885/Replace-Mod/blob/dfb88d51d6b38d044284bb7545abd81a634c4e66/assets/banner-animated.gif" alt="AutoReplace animated banner" width="800"/>
+  <img src="/assets/banner-animated.gif" alt="AutoReplace animated banner" width="800"/>
 </p>
 
 <h1 align="center">AutoReplace</h1>
